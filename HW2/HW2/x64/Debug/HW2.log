@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Homeuser\Desktop\計圖學\hw2\HW2_release\HW2_release\HW2\main.cpp(487,59): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\Users\Homeuser\Desktop\計圖學\hw2\HW2_release\HW2_release\HW2\main.cpp(495,59): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\Users\Homeuser\Desktop\計圖學\hw2\HW2_release\HW2_release\HW2\main.cpp(503,59): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\Users\Homeuser\Desktop\計圖學\hw2\HW2_release\HW2_release\HW2\main.cpp(512,59): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\Users\Homeuser\Desktop\計圖學\hw2\HW2_release\HW2_release\HW2\main.cpp(520,60): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+  HW2.vcxproj -> C:\Users\Homeuser\Desktop\計圖學\hw2\HW2_release\HW2_release\x64\Debug\HW2.exe
